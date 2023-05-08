@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+
+.box{
+    display: flex;    
+}
+
+.esquerda{
+    background-color: black;
+    width: 468.5px;
+    height: 1746.43px;
+}
+.icons a{
+    text-decoration: none;
+    display: flex;
+    color: #DBDFEA;
+    justify-content: flex-end;
+    margin-right: 30px;
+    padding-top: 15px;
+}
+
+.vertical{
+    height: 810.5px;
+    border-right: 1px solid #DBDFEA;
+}
+
+.centro{
+    justify-content: center;
+    position: relative;
+    width: 600px;
+    height: 1746.43;
+    background-color: black;
+}
+
+.barra{
+    width: 598px;
+    height: 53px;
+    background-color: black;
+    display: inline-flex;
+    padding: 13px;
+    justify-content: space-between;
+}
+
+.barra h2{
+    color: white;
+}
+
+.barra a{
+    text-decoration: none;
+    color: white;
+}
+
+.item1{
+    position: relative;
+    width: 598px;
+    height: 622px;
+    padding: 0px 16px;
+    left: 100px;
+}
+
+.item1-text{
+    width: 506px;
+    height: 20px;
+    color: white;
+}
+
+.item1-text span{
+    width: 506px;
+    color: white;
+    height: 20px;
+
+}
+
+.img1{
+    border-radius: 100%;
+    margin-top: 20px;
+}
+
+.item2{
+    width: 598px;
+    height: 725;
+}
+
+.item2-text{
+    color: white;
+}
+
+.item2 span{
+    color: white;
+}
+
+.item3-text{
+    color: white;
+}
+
+.item3 span{
+    color: white;
+}
+
+.horizontal{
+    width: 600px;
+    border: 1px solid #DBDFEA;
+}
+.direita{
+    background-color: pink;
+}
